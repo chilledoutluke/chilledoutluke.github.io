@@ -1,0 +1,19 @@
+:root {
+    /* Font Family */
+    --font-family:'Mukta', sans-serif;
+
+    /* Font Weight */
+    --font-light300: 300px;
+    --font-medium500: 500px;
+    --font-bold800: 800px;
+
+    /* Color Palette */
+    --navy-blue: #16354D;
+    --light-blue: #6B99C3;
+    --light-grey1: #D2D2D4;
+    --light-grey2: #E4E5EA;
+    --dark-blue: #0C151C;
+
+    
+
+}
