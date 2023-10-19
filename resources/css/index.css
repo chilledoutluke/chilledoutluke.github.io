@@ -71,48 +71,6 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-/* Header */
-
-header {
-    background-color: var(--navy-blue);
-    color: var(--light-grey2);
-
-    
+header ul {
+  display: inline;
 }
-
-
-.container ul {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    padding-left: 12px;
-    
-}
-
-.container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-li {
-    list-style: none;
-}
-
-li a {
-    text-decoration: none;
-    color: #E4E5EA;
-}
-
-
-#year {
-    padding-right: 12px;
-}
-
-/* Introduction Section */
-
-h3 {
-    text-transform: uppercase;
-    font-size: larger;
-}
-
