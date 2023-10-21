@@ -68,9 +68,25 @@
   }
 
 body {
-    font-family: 'Montserrat', sans-serif;
+  padding:0px;
+  margin: 0px;
+  background-color: #1E1E24;
+  color: #E4E5EA;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
 }
 
-.menu  {
+.header ul {
+  float: left;
+}
+
+.menu li  {
   display: inline;
+  padding: 0px;
+  margin: 10px;
+
+}
+
+.menu li+li::before {
+  
 }
